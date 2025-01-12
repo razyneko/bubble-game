@@ -2,6 +2,8 @@
 ![image](https://github.com/user-attachments/assets/d26aee69-a801-4274-bcc0-fd6044323bc1)
 
 # Play Again Window
+![image](https://github.com/user-attachments/assets/2375525e-2dae-4927-91dc-b23e1d46c322)
+
 - Page reloads after pressing the button and the game restarts.
 
 # Concepts Learned

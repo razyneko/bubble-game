@@ -8,8 +8,8 @@
 
 # Concepts Learned
 - ## Event Bubbling :
-     - Event Bubbling or Event Propogation is default behaviour of an event is handled in JS, for example if a h1 is inside a div, and div has a click listener to it, so even if h1, its child element is clicked, the event is propogated till the root(html) element so also covering outer div
+     - Event Bubbling or Event Propogation is default behaviour of an event is handled in JS, for example if a h1 is inside a div, and div has a click listener to it, so even if h1, its child element is clicked, the event is propogated till the root(html) element so also covering div.
      - so if the final take is the event on an element bubbles up to the root element.
-     - sometimes, we must prevent it
-     - in that case, we use "event.stopPropogation()"
-     - though, i actually used "eventPropogation" as an aid in this project by adding click event on "#panel-bottom" and then accessed the content inside target bubble using "event.target"
+     - sometimes, we must prevent it,
+     - in that case, we use "event.stopPropogation()",
+     - though i actually used "eventPropogation" as an aid in this project by adding click event on "#panel-bottom" and then accessed the content inside target bubble using "event.target"
